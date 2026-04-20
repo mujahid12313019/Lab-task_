@@ -6,8 +6,8 @@ import argparse
 code_dir = "code"
 
 # Default values
-DEFAULT_NAME = "SANJIDUR RAHMAN"
-DEFAULT_ROLL = "2307006"
+DEFAULT_NAME = "Mujahid Hossen Sagar"
+DEFAULT_ROLL = "2307036"
 
 # Allowed source code extensions
 ALLOWED_EXTENSIONS = {
