@@ -1,7 +1,7 @@
 # DSA Lab Tasks
 
-**Name:** SANJIDUR RAHMAN  
-**Roll:** 2307006  
+**Name:** Mujahid Hossen Sagar 
+**Roll:** 2307036 
 **Course:** Data Structures and Algorithms Lab
 
 ---
